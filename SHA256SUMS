@@ -1,0 +1,14 @@
+33c8ebc181def98ef7c752ca6c9f99c7020c9a939469cbbb61244ba6db1e4db6  ./.gitignore
+1ab59bbb73de503e18899da3191240869705be1529780532259586390adb8443  ./README.md
+a980d372dfbeb7d1e58612be514b70284f8b3b582405a7241b7273bc787395d4  ./device/README.md
+7bc2979ec3390214f4bf0cccef678ed5db5c5ad6bd4eb75aacdabe6c6777f02f  ./probe/native/cred_patch_once.c
+ce09ac239c36f950d9d5fb6cdded7761fe5cdf4d73ee872b9ccab561145c02ff  ./probe/native/cred_target.c
+1424f5c42f64a6080aced2c4f2cfd96a49eab10f0e54c3a614529cbac03855c8  ./probe/native/kgsl_bulk_dump.c
+0b348b89eff4ce8d147cb68734f2f040855dee1149c99afb38069938478d4b7c  ./probe/reproduce_uid0.py
+3dbd7a2fb58a99c7e84a0171b9cb865d6d01eef4ee96c91f9001a6c17ad77f6d  ./probe/task_walk.py
+3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986  ./references/vivo-iqoo-9t/tools/device/LICENSE
+c18df0d3a4ccb1740e5937acad7c77e6730e7d26e314c3ab1457f10ad403d948  ./references/vivo-iqoo-9t/tools/device/UPSTREAM_COMMIT
+e54dbf619d8953226544ee80d9d680e4ec72aa5d401878ef2943f56e937c1268  ./references/vivo-iqoo-9t/tools/device/adrenaline.h
+73939f230dab83e6064eec8ecca608d64d0b93c45877a6ec67051360411f121d  ./references/vivo-iqoo-9t/tools/device/cheese_pa.c
+a50f38ec3f0cfc4120f6d0a4daf852e2027461bff0e68f3b540e5d098996b908  ./references/vivo-iqoo-9t/tools/device/kallsyms_lookup.c
+4ef2f5d293f6e07e20580f3b2a263b269d5bad3928c844bf9ee5b61866e317a0  ./references/vivo-iqoo-9t/tools/device/pa_leak.h
